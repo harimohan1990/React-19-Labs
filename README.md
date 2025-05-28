@@ -1,5 +1,3 @@
-# React-19-Labs
-
 # React 19 Labs: View Transitions, Activity, and Experimental Features (April 2025)
 
 React Labs posts give us a peek into experimental and upcoming features being developed by the React core team. As of April 23, 2025, React has released two powerful features for early testing: **View Transitions** and **Activity**. These are available in `react@experimental`.
